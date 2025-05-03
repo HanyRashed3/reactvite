@@ -1,15 +1,11 @@
 import React from 'react';
-import axios from 'axios';
-import { useEffect, useState } from 'react';
 
-function App() {
-  
-
+const App = () => {
   return (
-
-    <div>
-      <h1>Hello</h1>
-    </div>
+    <>
+      <h1>Hello Vite + React!</h1>
+    </>
   );
 }
+
 export default App;
